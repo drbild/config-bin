@@ -1,5 +1,7 @@
 *
 !/bin
+!/bin/ccache-gcc
+!/bin/ccache-g++
 !/bin/pwait
 !/bin/zypper-orphaned
 !/.gitignore.d
