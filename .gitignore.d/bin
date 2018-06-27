@@ -1,5 +1,6 @@
 *
 !/bin
+!/bin/ccache-clang
 !/bin/ccache-gcc
 !/bin/ccache-g++
 !/bin/pwait
